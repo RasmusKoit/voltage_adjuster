@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LDK130PU-R")(type "KiCad")(uri "${KIPRJMOD}/footprints_symbols/LDK130PU-R.kicad_sym")(options "")(descr ""))
+  (lib (name "MCP73832T-2ACI_MC")(type "KiCad")(uri "${KIPRJMOD}/footprints_symbols/MCP73832T-2ACI_MC.kicad_sym")(options "")(descr ""))
+  (lib (name "UJC-H-G-SMT-1-P6-TR")(type "KiCad")(uri "${KIPRJMOD}/footprints_symbols/UJC-H-G-SMT-1-P6-TR.kicad_sym")(options "")(descr ""))
+)

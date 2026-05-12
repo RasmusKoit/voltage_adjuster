@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LDK130PU-R
+D 300mA 0.8V Low IQ Low Noise LDO DFN6 STMicroelectronics LDK130PU-R, LDO Voltage Regulator, Adjustable 300mA, 0.8 (Min.) V +/-3%, 6-Pin DFN
+K
+F https://www.st.com/resource/en/datasheet/ldk130.pdf
+$ENDCMP
+#
+#End Doc Library

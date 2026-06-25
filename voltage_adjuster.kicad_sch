@@ -2571,7 +2571,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CRG0603F56K"
+		(property "Manufacturer Part Number" " CRG0603F56K"
 			(at 160.02 74.93 0)
 			(effects
 				(font
@@ -2580,7 +2580,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "279-CRG0603F56K"
+		(property "Mouser Part Number" " 279-CRG0603F56K"
+			(at 160.02 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "height" ""
 			(at 160.02 74.93 0)
 			(effects
 				(font
@@ -2667,8 +2676,17 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "279-CRG0603F1K5"
+		(property "Mouser Part Number" " 279-CRG0603F1K5"
 			(at 151.13 82.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "height" ""
+			(at 151.13 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2820,7 +2838,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "963-LMK107BJ475KA-T"
+		(property "Mouser Part Number" " 963-LMK107BJ475KA-T"
+			(at 110.49 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "height" ""
 			(at 110.49 77.47 0)
 			(effects
 				(font
@@ -2849,7 +2876,7 @@
 		(at 222.25 74.93 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "342ddbf9-9bf7-4bb1-adf1-562950f31568")
@@ -2889,6 +2916,15 @@
 			)
 		)
 		(property "Description" "Jumper, 2-pole, small symbol, open"
+			(at 222.25 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "height" ""
 			(at 222.25 74.93 0)
 			(effects
 				(font
@@ -2982,6 +3018,15 @@
 				(hide yes)
 			)
 		)
+		(property "height" ""
+			(at 57.15 72.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e22b5923-95bb-4965-ae67-a6303549c11d")
 		)
@@ -3060,7 +3105,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "963-LMK107BJ475KA-T"
+		(property "Mouser Part Number" " 963-LMK107BJ475KA-T"
+			(at 120.65 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "height" ""
 			(at 120.65 82.55 0)
 			(effects
 				(font
@@ -3215,7 +3269,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "579-MCP73832T-2ACIMC"
+		(property "Mouser Part Number" " 579-MCP73832T-2ACIMC"
 			(at 147.32 567.31 0)
 			(effects
 				(font
@@ -3252,6 +3306,24 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "MCP73832T-2ACI/MC"
+			(at 120.65 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "height" ""
+			(at 120.65 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -3356,7 +3428,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" ""
+		(property "Mouser Part Number" "179-UJCHGSMTP6TR"
 			(at 88.9 567.31 0)
 			(effects
 				(font
@@ -3393,6 +3465,24 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" " UJC-H-G-SMT-P6-TR"
+			(at 59.69 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "height" ""
+			(at 59.69 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -3489,7 +3579,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CRG0603F56K"
+		(property "Manufacturer Part Number" " RCA0603100KFKEC"
 			(at 217.17 76.2 0)
 			(effects
 				(font
@@ -3498,8 +3588,17 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "279-CRG0603F56K"
+		(property "Mouser Part Number" "71-RCA0603100KFKEC"
 			(at 217.17 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "height" ""
+			(at 217.17 76.2 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3659,7 +3758,7 @@
 		(at 160.02 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -3701,6 +3800,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 160.02 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "height" ""
 			(at 160.02 77.47 0)
 			(effects
 				(font
@@ -3773,7 +3881,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CRG0603F56K"
+		(property "Manufacturer Part Number" " AC0603FR-07316KL"
 			(at 229.87 80.01 0)
 			(effects
 				(font
@@ -3782,8 +3890,17 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "279-CRG0603F56K"
+		(property "Mouser Part Number" "603-AC0603FR-07316KL"
 			(at 229.87 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "height" ""
+			(at 229.87 80.01 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3876,8 +3993,17 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "859-LTST-C190KRKT "
+		(property "Mouser Part Number" "859-LTST-C190KRKT"
 			(at 151.13 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "height" ""
+			(at 151.13 87.63 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3965,7 +4091,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "511-LDK130PU-R"
+		(property "Mouser Part Number" " 511-LDK130PU-R"
 			(at 179.07 -417.45 0)
 			(effects
 				(font
@@ -4005,6 +4131,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" " LDK130PU-R"
+			(at 200.66 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "height" ""
+			(at 200.66 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "25d7d86b-9526-472f-86ae-1a631b4626cd")
 		)
@@ -4037,7 +4181,7 @@
 		(at 226.06 74.93 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "7589f133-5663-4f0f-8ed3-a7ef6b00a815")
@@ -4085,6 +4229,15 @@
 				(hide yes)
 			)
 		)
+		(property "height" ""
+			(at 226.06 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6d715682-9b51-4a07-b076-0c11466d3ec0")
 		)
@@ -4105,7 +4258,7 @@
 		(at 170.18 72.39 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -4147,6 +4300,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 170.18 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "height" ""
 			(at 170.18 72.39 0)
 			(effects
 				(font
@@ -4435,7 +4597,7 @@
 		(at 229.87 74.93 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "9086d7ed-a4c5-4cb1-abda-45262599142a")
@@ -4475,6 +4637,15 @@
 			)
 		)
 		(property "Description" "Jumper, 2-pole, small symbol, open"
+			(at 229.87 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "height" ""
 			(at 229.87 74.93 0)
 			(effects
 				(font
@@ -4569,7 +4740,7 @@
 		(at 134.62 102.87 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -4611,6 +4782,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 134.62 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "height" ""
 			(at 134.62 102.87 0)
 			(effects
 				(font
@@ -4898,6 +5078,15 @@
 				(hide yes)
 			)
 		)
+		(property "height" ""
+			(at 57.15 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d88e8af1-72c9-4d27-a7e1-b5e39867aaf0")
 		)
@@ -4976,7 +5165,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "963-LMK107B7105KA-T"
+		(property "Mouser Part Number" " 963-LMK107B7105KA-T"
+			(at 172.72 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "height" ""
 			(at 172.72 82.55 0)
 			(effects
 				(font
@@ -5063,7 +5261,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "963-LMK107B7105KA-T"
+		(property "Mouser Part Number" " 963-LMK107B7105KA-T"
+			(at 200.66 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "height" ""
 			(at 200.66 82.55 0)
 			(effects
 				(font
@@ -5092,7 +5299,7 @@
 		(at 236.22 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "e3eceb9f-77aa-47e0-8190-b937f4588bad")
@@ -5133,6 +5340,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 236.22 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "height" ""
 			(at 236.22 83.82 0)
 			(effects
 				(font
@@ -5205,7 +5421,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CRG0603F56K"
+		(property "Manufacturer Part Number" " AC0603FR-07124KL"
 			(at 226.06 80.01 0)
 			(effects
 				(font
@@ -5214,8 +5430,17 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "279-CRG0603F56K"
+		(property "Mouser Part Number" " 603-AC0603FR-07124KL"
 			(at 226.06 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "height" ""
+			(at 226.06 80.01 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5243,7 +5468,7 @@
 		(at 236.22 86.36 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -5285,6 +5510,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 236.22 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "height" ""
 			(at 236.22 86.36 0)
 			(effects
 				(font
@@ -5489,7 +5723,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CRG0603F56K"
+		(property "Manufacturer Part Number" "RC0603FR-0788K7L"
 			(at 222.25 80.01 0)
 			(effects
 				(font
@@ -5498,8 +5732,17 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "279-CRG0603F56K"
+		(property "Mouser Part Number" "603-RC0603FR-0788K7L"
 			(at 222.25 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "height" ""
+			(at 222.25 80.01 90)
 			(effects
 				(font
 					(size 1.27 1.27)

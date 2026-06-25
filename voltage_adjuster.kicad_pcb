@@ -81,6 +81,8 @@
 		(pad_to_mask_clearance 0)
 		(allow_soldermask_bridges_in_footprints no)
 		(tenting front back)
+		(aux_axis_origin 56.13 47.52)
+		(grid_origin 56.13 47.52)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
@@ -6485,6 +6487,26 @@
 			(uuid "85d85d17-d34e-449f-a75c-ab5644487967")
 		)
 		(embedded_fonts no)
+	)
+	(gr_line
+		(start 56.13 46.52)
+		(end 56.13 47.52)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "489dc867-009d-4791-b073-cc6d5c2e2661")
+	)
+	(gr_line
+		(start 56.13 47.52)
+		(end 57.13 47.52)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "ddc30ac6-365d-46d6-9421-6dc720348247")
 	)
 	(gr_arc
 		(start 71.13 32.52)
